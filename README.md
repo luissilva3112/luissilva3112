@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&weight=800&size=24&duration=3000&pause=1000&color=620C90&center=true&width=500&lines=Desenvolvedor+Full+Stack;Analise+e+Desenvolvimento+de+Sistemas;Entusiasta+de+Open+Source)](https://git.io/typing-svg)
 
-- Graduante em Análise e Desenvolvimento de Sistemas
-- Desenvolvedor Full Stack em Formação
-- Focado em Soluções Escaláveis
-
 ---
 
 ### Minha Stack Tecnológica:
