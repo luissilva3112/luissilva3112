@@ -29,7 +29,6 @@
   <a href="mailto:luis.gabriel3112@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=luissilva3112&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Views" />
 </p>
 
 ---
