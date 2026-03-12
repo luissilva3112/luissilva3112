@@ -26,8 +26,7 @@ Sou graduando em **Análise e Desenvolvimento de Sistemas** com uma vontade enor
 
 ### Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luissilva3112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissilva3112&layout=compact&langs_count=7&theme=dracula" />
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissilva3112&layout=compact&hide_title=true&theme=dark&card_width=800&hide_border=true&columns=4&langs_count=8" />
 </p>
 
 ---
